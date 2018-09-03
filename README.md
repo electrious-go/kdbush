@@ -1,6 +1,8 @@
 # KDBsuh
 
-[Godoc is here](https://godoc.org/github.com/MadAppGang/kdbush)
+[![CircleCI](https://circleci.com/gh/electrious-go/kdbush/tree/master.svg?style=svg)](https://circleci.com/gh/electrious-go/cluster/tree/master)
+![Go Report](https://goreportcard.com/badge/github.com/electrious-go/kdbush)
+[![Go Doc](https://godoc.org/github.com/electrious-go/kdbush?status.svg)](http://godoc.org/github.com/electrious-go/kdbush)
 
 Package kdbush provides a very fast static spatial index for 2D points based on a flat KD-tree.
 Very fast, but limited:
