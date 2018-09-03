@@ -28,6 +28,6 @@
 //
 // C++11 port: https://github.com/mourner/kdbush.hpp
 //
-// If you liked the project, start it please: https://github.com/MadAppGang/kdbush
+// If you liked the project, start it please: https://github.com/electrious-go/kdbush
 //
 package kdbush
